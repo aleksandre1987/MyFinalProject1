@@ -17,4 +17,4 @@ TEST CASES;
  
  2) verify with incorrect email and password field (Login).
  
- 3) Registration Form With All Field (Registration Field).
+ 3) Registration Form With All Field (Registration Form).
